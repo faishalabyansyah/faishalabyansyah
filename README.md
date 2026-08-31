@@ -1,42 +1,14 @@
-## Hi there 👋
-
-<!--
-**faishalabyansyah/faishalabyansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-<!-- Banner Dinamis Menggunakan Capsule Render -->
 <p align="center">
-  <img src="https://vercel.app" alt="Faishal Banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00ff88&height=220&section=header&text=FAISHAL%20ABYANSHYAH&fontSize=42&fontColor=00ff88&animation=twinkling&fontAlignY=35"
+    width="100%"
+  />
 </p>
 
-<p align="center">
-  <b>Cyber Security Enthusiast | SOC Analyst | Blue Team</b>
-</p>
-
-<!-- Lencana Kompetensi / Sertifikasi (Shields.io) -->
-<p align="center">
-  <img src="https://shields.io" alt="Security+" />
-  ![Security+](https://shields.io)
-</p>
+<h3 align="center">
+  🛡️ Cyber Security Enthusiast | SOC Analyst | Blue Team
+</h3>
 
 <p align="center">
-  <i>••• find it // prove it // chase the fix</i>
-</p>
-
-<hr>
-
-<!-- Teks Kualifikasi Tambahan -->
-<p align="center">
-  <b>Security+</b>
-</p>
-
-<!-- Tombol Kontak & Penghitung Pengunjung -->
-<p align="center">
-  <a href="https://linkedin.com" target="www.linkedin.com/in/faishalabyansyah">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-  <a href="https://tryhackme.com" target="_blank">
-    <img src="https://shields.io" alt="TryHackMe" />
-  </a>
+  <i>find it // prove it // chase the fix</i>
 </p>
