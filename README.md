@@ -39,10 +39,3 @@ Here are some ideas to get you started:
     <img src="https://shields.io" alt="TryHackMe" />
   </a>
 </p>
-
-<!-- Bagian Deskripsi Tambahan Anda -->
-### 🔭 Tentang Saya
-- 🔭 **Sedang fokus pada:** Investigasi insiden keamanan jaringan dan analisis log SIEM.
-- 🌱 **Sedang mendalami:** Teknik *Threat Hunting* tingkat lanjut dan forensik digital Windows.
-- 💬 **Tanya saya tentang:** Analisis Phishing, Splunk, atau persiapan sertifikasi Blue Team.
-- 📫 **Cara menghubungi saya:** Melalui akun LinkedIn saya di bawah.
