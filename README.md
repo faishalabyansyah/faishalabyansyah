@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 
 <!-- Lencana Kompetensi / Sertifikasi (Shields.io) -->
 <p align="center">
-  <img src="https://shields.io" alt="BTL1 Gold" />
-  <img src="https://shields.io" alt="SAL1" />
-  <img src="https://shields.io" alt="Detection" />
-  <img src="https://shields.io" alt="SOC" />
+  <img src="https://shields.io" alt="Security+" />
 </p>
 
 <p align="center">
@@ -30,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- Teks Kualifikasi Tambahan -->
 <p align="center">
-  <b>BTL1 Gold Coin | SAL1 | CyberOps | SC-900</b>
+  <b>Security+/b>
 </p>
 
 <!-- Tombol Kontak & Penghitung Pengunjung -->
