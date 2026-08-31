@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- Tombol Kontak & Penghitung Pengunjung -->
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
+  <a href="https://linkedin.com/faishalabyansyah" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
   <a href="https://tryhackme.com" target="_blank">
