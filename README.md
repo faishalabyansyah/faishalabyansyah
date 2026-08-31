@@ -10,3 +10,6 @@
   <b>Cyber Security Enthusiast | SOC Analyst | Blue Team</b>
 </p>
 
+<p align="center">
+  <b>Security+</b>
+</p>
