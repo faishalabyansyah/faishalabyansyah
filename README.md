@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- Lencana Kompetensi / Sertifikasi (Shields.io) -->
 <p align="center">
   <img src="https://shields.io" alt="Security+" />
+  ![Security+](https://shields.io)
 </p>
 
 <p align="center">
