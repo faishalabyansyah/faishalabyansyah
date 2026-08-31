@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tryhackme.com/">
-    <img src="https://img.shields.io/badge/⚔️_TryHackMe-1a1f2b?style=flat&logoColor=white" />
+    <img src="https://img.shields.io/badge/TryHackMe-1a1f2b?style=flat&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=faishalabyansyah&style=flat&color=6f2cff&label=views" />
 </p>
