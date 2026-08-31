@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <b>Cyber Security Analyst | Incident Responder | Blue Teamer</b>
+  <b>Cyber Security Enthusiast | SOC Analyst | Blue Team</b>
 </p>
 
 <!-- Lencana Kompetensi / Sertifikasi (Shields.io) -->
