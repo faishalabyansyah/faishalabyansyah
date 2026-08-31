@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- Teks Kualifikasi Tambahan -->
 <p align="center">
-  <b>Security+/b>
+  <b>Security+</b>
 </p>
 
 <!-- Tombol Kontak & Penghitung Pengunjung -->
