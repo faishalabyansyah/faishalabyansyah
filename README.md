@@ -9,7 +9,9 @@
 <p align="center">
   <b>Cyber Security Enthusiast | SOC Analyst | Blue Team</b>
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B-0A7DB3?style=flat-square&logo=shield&logoColor=white" />
+</p>
 <p align="center">
   <b>Security+</b>
 </p>
