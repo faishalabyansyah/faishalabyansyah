@@ -38,10 +38,6 @@ Here are some ideas to get you started:
   <a href="https://tryhackme.com" target="_blank">
     <img src="https://shields.io" alt="TryHackMe" />
   </a>
-  <a href="https://letsdefend.io" target="_blank">
-    <img src="https://shields.io" alt="LetsDefend" />
-  </a>
-  <img src="https://seeyoufarm.com" alt="Views" />
 </p>
 
 <!-- Bagian Deskripsi Tambahan Anda -->
